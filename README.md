@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Welcome to my profile.
+I find things that interset me.
+If you are also interested, not bad to look at my repositories.
 <!--
 **yourkik/yourkik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
